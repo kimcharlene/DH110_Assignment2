@@ -111,6 +111,49 @@ Explaining the goal:
     
 > *An issue I have with Notion is that I don’t explore the different layouts or templates that may include a time management system because it has too many features it feels overwhelming. I find myself reverting to the basic/blank template where I simply write out my to-do list in a laundry list style.*
 
+## Interview 3
+
+**User persona (easy to answer questions to get to know the user better).**
+
+1. What do you study?
+
+>  *I am a third year psychology major.*
+
+2. Please describe to me your typical day.
+
+> *I usually wake up around 9am on a school day. I will go straight to class if I have any in the morning, otherwise I usually go workout, have breakfast, and work on miscellaneous chores in my mornings. I then will have lunch around noon, and I usually go to class or study in the afternoon. I try to have dinner around 6 pm everyday. After dinner during night time, I either just chill and hangout with friends, or relax by myself with a movie or tv show. I usually go to bed between 12-1am.*
+
+**Connection with the topic**
+
+3. How many hours per day do you spend on homework or school related projects?
+
+> *Usually around 2-5 hours a day.*
+
+4. Do you find that you often have trouble finding the time to complete your homework or keep on track while completing it?
+
+> *Usually no. The only occasion that I will have trouble completing my homework is when I also have club duties or activities on the side.*
+
+    
+5. Describe how you typically complete your homework, specifically how you organize time to complete assignments.
+> *I like to plan out my weekly schedule in the beginning of each week. I set up schedule blocks to help me organize and visualize how much time I need to complete my assignment and projects. I will also adjust my weekly schedule according to my class progress as the week goes by.*
+
+6. What are the most common impediments to your studying? 
+> *For me personally, messages and social media notifications are my most common impediments to my studying.*
+
+**Previous experience**
+
+7. Do you take any methods to improve your time management? If so, describe them to me. If yes, follow up with: has this been effective when you’ve implemented this method?
+
+> *My main method to improve my own time management is to reflect on how well my scheduling and planning work out from the past week. I identify the parts I did well and make sure I keep that consistent in the future, and list out the parts I need improvements on so I can pay extra attention on fixing and adjusting them.*
+
+8. Have you ever used an app or website to aid your time management? Yes, 
+
+> *Currently no. But I am really open to trying out any apps or websites that may help me with my time management.*
+
+9. What are your main issues with <sites/apps/other-means mentioned before>?
+    
+> *No experience with other applications.*
+
 ## Outro
 
 Words of Gratitude
