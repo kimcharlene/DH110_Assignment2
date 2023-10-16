@@ -9,6 +9,7 @@ The interview asks about their **user persona**, their **connection to the topic
 - [Introduction](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#introduction)
 - [Interview 1](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#interview-1)
 - [Interview 2](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#interview-2)
+- [Interview 3](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#interview-e)
 - [Outro](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#outro)
 
 ## Introduction
