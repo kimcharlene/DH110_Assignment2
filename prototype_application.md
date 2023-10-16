@@ -1,5 +1,7 @@
 # Prototype Application
 
+[Return to README](https://github.com/kimcharlene/DH110_Assignment2/blob/main/README.md)
+
 After conducting our preliminary research on existing time management tools and interviews on current thoughts on their effectiveness, here we present our prototype application to suggest a better alternative.
 
 ## Final Wireframe
@@ -22,3 +24,5 @@ This flow chart explains how the user will interact with the interface, and what
 
 Here is an example of a user experience and journey while using this app. In this visualization, we are analyzing a persona of a busy student who has a difficult time committing to start work in various scenarios and stages of their workflow.
 > Find a high-resolution .png version of this user journey in our repository, named user-journey.png.
+
+[Return to README](https://github.com/kimcharlene/DH110_Assignment2/blob/main/README.md)
