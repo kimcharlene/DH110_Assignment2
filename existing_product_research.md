@@ -1,5 +1,7 @@
 # Existing Product Research
 
+[Return to README](https://github.com/kimcharlene/DH110_Assignment2/blob/main/README.md)
+
 In this section, we summarize major systems and products used for time and task management that are currently in use by the market.
 The purpose of this research to is to find what methodologies and features are desirable in a good management tool and to pick out what features could be better improved, to ultimately inform our design decisions for our application.
 
@@ -43,3 +45,5 @@ Pomodoro timers
 
 ### Features to Implement
 Upon analyzing these existing systems and practices, we want to incorporate a version of a task scheduling and organization system where you can keep track of task information, deadlines, duration, and other crucial details in one system and application, so that the user can spend less time recalling these items in their head. By reducing this clutter, we hope that the user can feel more equipped and ready to focus energy and efforts on their major priorities and eliminate any bottlenecks from task management to streamline the process.
+
+[Return to README](https://github.com/kimcharlene/DH110_Assignment2/blob/main/README.md)
