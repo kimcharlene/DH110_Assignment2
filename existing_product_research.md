@@ -12,7 +12,7 @@ The purpose of this research is to determine the most effective and desirable me
 - **Google Calendar**: An indispensable tool for calendar management, basic scheduling, and task management, Google Calendar provides an efficient and widely-used solution.
 - **Trello**: Trello's visual project boards have redefined task management for many users, offering a unique and intuitive approach to organizing and tracking tasks.
 - **Todoist**: Task management via to-do lists is at its best with Todoist, which simplifies the process of keeping track of tasks and priorities.
--** Notion**: Combining task management with note-taking capabilities, Notion offers a versatile and flexible solution for personal organization.
+- **Notion**: Combining task management with note-taking capabilities, Notion offers a versatile and flexible solution for personal organization.
 
 *Team Use*
 - **Slack, Asana, Jira, ClickUp**: These robust tools, with their task management features and team communication capabilities, cater to the needs of collaborative and team-based projects, each with its unique strengths.
