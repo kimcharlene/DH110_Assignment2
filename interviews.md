@@ -1,5 +1,7 @@
 # Interviews
 
+[Return to README](https://github.com/kimcharlene/DH110_Assignment2/blob/main/README.md)
+
 Here is a template of interviews conducted before developing our prototype application, to inquire about their thoughts on time management and their experience and habits as students.
 In this section, you will find what we used as an **introduction** and **outro**, as well as **three sections** with questions and answers from three different students.
 The interview asks about their **user persona**, their **connection to the topic**, and their **previous experiences**.
@@ -115,3 +117,5 @@ Farewell
 - Have a good one! / Have a great weekend! / Bye!
     
 If you’re recording with something like Zoom, stop the recording. Take a moment to write down your clear takeaways.
+
+[Return to README](https://github.com/kimcharlene/DH110_Assignment2/blob/main/README.md)
