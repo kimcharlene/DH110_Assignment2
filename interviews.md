@@ -6,10 +6,10 @@ Here is a template of interviews conducted before developing our prototype appli
 In this section, you will find what we used as an **introduction** and **outro**, as well as **three sections** with questions and answers from three different students.
 The interview asks about their **user persona**, their **connection to the topic**, and their **previous experiences**.
 
-[Introduction](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#introduction)
-[Interview 1](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#interview-1)
-[Interview 2](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#interview-2)
-[Outro](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#outro)
+- [Introduction](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#introduction)
+- [Interview 1](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#interview-1)
+- [Interview 2](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#interview-2)
+- [Outro](https://github.com/kimcharlene/DH110_Assignment2/blob/main/interviews.md#outro)
 
 ## Introduction
 Greeting:
